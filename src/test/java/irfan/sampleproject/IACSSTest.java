@@ -14,4 +14,9 @@ public class IACSSTest {
         String[] split = data.split(regex);
         System.out.println(Arrays.toString(split));
     }
+
+    @Test
+    void test() {
+        System.out.println("Perubahan");
+    }
 }
