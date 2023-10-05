@@ -14,4 +14,9 @@ public class IACSSTest {
         String[] split = data.split(regex);
         System.out.println(Arrays.toString(split));
     }
+
+    @Test
+    void perubahanDiMaster() {
+        System.out.println("PERUBAHASN DI MASTER");
+    }
 }
