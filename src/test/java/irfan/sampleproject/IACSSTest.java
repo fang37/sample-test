@@ -24,4 +24,9 @@ public class IACSSTest {
     void perubahanDiMaster2() {
         System.out.println("PERUBAHASN DI MASTER 2");
     }
+
+    @Test
+    void perubahanDiMaster3() {
+        System.out.println("PERUBAHASN DI MASTER 2");
+    }
 }
