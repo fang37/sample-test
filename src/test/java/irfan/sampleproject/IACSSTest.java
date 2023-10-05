@@ -16,6 +16,16 @@ public class IACSSTest {
     }
 
     @Test
+    void perubahanDiMaster() {
+        System.out.println("PERUBAHASN DI MASTER");
+    }
+
+    @Test
+    void perubahanDiMaster2() {
+        System.out.println("PERUBAHASN DI MASTER 2");
+    }
+
+    @Test
     void test() {
         System.out.println("Perubahan");
     }
