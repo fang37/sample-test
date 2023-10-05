@@ -26,7 +26,9 @@ public class IACSSTest {
     }
 
     @Test
-    void test() {
-        System.out.println("Perubahan");
+    void perubahanDiCabang2() {
+        System.out.println("Perubahan di cabang 2");
     }
+
+
 }
